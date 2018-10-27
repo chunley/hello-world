@@ -1,2 +1,2 @@
 # hello-world
-Test repo
+This is a practice repo used with the github tutorial.
